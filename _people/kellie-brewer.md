@@ -11,7 +11,7 @@ linkedin: ''
 layout: 'person'
 ---
 
-Kellie Brewer joined Belkirk in 2014 as a Professor of Engineering.
+Kellie Brewer joined Boilkirk in 2014 as a Professor of Engineering.
 
 Kellie received her Ph.D in Biomedical Engineering from Duke University in 2007. Since graduating, Kelly has worked with Randstad Engineering as Head of Research and Development in San Jose, California.
 
