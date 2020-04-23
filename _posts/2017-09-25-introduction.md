@@ -12,8 +12,4 @@ layout: post
 banner_image: ''
 
 ---
-Welcome to the Dunkirk College of Engineering Demo Site!
-
-This site allows you to explore Forestry's features and functionality, and is **not** meant to be used as a production website. To get started building your own site, please see our [documentation](https://forestry.io/docs/).
-
-Thank you for choosing to demo Forestry!
+I've just set this up and am trying to understand how it works for both a developer and an editor. So far...so good.
