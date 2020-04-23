@@ -27,5 +27,6 @@ fields:
   hidden: false
   default: ''
 pages:
+- _seasons/2016-17.md
 - _seasons/2017-18.md
 - _seasons/2018-19.md
