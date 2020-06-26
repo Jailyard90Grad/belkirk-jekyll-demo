@@ -4,7 +4,7 @@ title: 30th Annual Ovation Awards
 sub_heading: 2018-2019 Awards season
 date: 
 tags: []
-banner_image: ''
+banner_image: "/uploads/2018/02/17/bridge.jpg"
 related_posts: []
 
 ---
