@@ -47,12 +47,12 @@ related_posts: []
 
 ##### **BEST SEASON**
 
-**BOSTON COURT PASADENA**   
+**BOSTON COURT PASADENA**  
 Everything That Never Happened  
 Ladies  
 The Judas Kiss
 
-**CENTER THEATRE GROUP**   
+**CENTER THEATRE GROUP**  
 Dana H.  
 Lackawanna Blues  
 Linda Vista  
@@ -60,47 +60,47 @@ Quack
 Sweat  
 Valley of the Heart
 
-**FOUNTAIN THEATRE**   
+**FOUNTAIN THEATRE**  
 Cost of Living  
 Daniel's Husband  
 Hype Man: a Break Beat Play
 
 ##### **BEST PRODUCTION OF A PLAY - Intimate Theatre**
 
-**Accidental Death of an Anarchist**   
+**ACCIDENTAL DEATH OF AN ANARCHIST**  
 The Actors' Gang Theater
 
-**August Wilson's Two Trains Running**  
+**AUGUST WILSON'S TWO TRAINS RUNNING**  
 Sophina Brown
 
-**Cost of Living**  
+**COST OF LIVING**  
 Fountain Theatre
 
-**Daniel's Husband**  
+**DANIEL'S HUSBAND**  
 Fountain Theatre
 
-**Everything That Never Happened**  
+**EVERYTHING THAT NEVER HAPPENED**  
 Boston Court Pasadena
 
 **THE BEAUTY QUEEN OF LEENANE**  
 Angela Nicholas
 
-**The Wolves**  
+**THE WOLVES**  
 The Echo Theater Company
 
 ##### **BEST PRODUCTION OF A PLAY - Large Theatre**
 
-**Charles Dickens' A Christmas Carol**  
+**CHARLES DICKENS' A CHRISTMAS CAROL**  
 Geffen Playhouse
 
-**Dana H.**  
+**DANA H.**  
 Center Theatre Group
 
-**Lackawanna Blues**  
+**LACKAWANNA BLUES**  
 Center Theatre Group
 
 **LADY DAY AT EMERSON'S BAR & GRILL**  
 Garry Marshall Theatre
 
-**Linda Vista**  
+**LINDA VISTA**  
 Center Theatre Group
