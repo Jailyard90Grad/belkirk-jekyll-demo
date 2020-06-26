@@ -44,3 +44,63 @@ related_posts: []
 [Video/Projection Design (Intimate Theater)](https://thisstage.la/?p=136803&elementor-preview=136803&ver=1593132306#video-sm)  
 [Video/Projection Design (Large Theater)](https://thisstage.la/?p=136803&elementor-preview=136803&ver=1593132306#video-lg)  
 [Ovations Honors Winners](https://thisstage.la/?p=136803&elementor-preview=136803&ver=1593132306#honors)
+
+##### **BEST SEASON**
+
+**BOSTON COURT PASADENA**   
+Everything That Never Happened  
+Ladies  
+The Judas Kiss
+
+**CENTER THEATRE GROUP**   
+Dana H.  
+Lackawanna Blues  
+Linda Vista  
+Quack  
+Sweat  
+Valley of the Heart
+
+**FOUNTAIN THEATRE**   
+Cost of Living  
+Daniel's Husband  
+Hype Man: a Break Beat Play
+
+##### **BEST PRODUCTION OF A PLAY - Intimate Theatre**
+
+**Accidental Death of an Anarchist**   
+The Actors' Gang Theater
+
+**August Wilson's Two Trains Running**  
+Sophina Brown
+
+**Cost of Living**  
+Fountain Theatre
+
+**Daniel's Husband**  
+Fountain Theatre
+
+**Everything That Never Happened**  
+Boston Court Pasadena
+
+**THE BEAUTY QUEEN OF LEENANE**  
+Angela Nicholas
+
+**The Wolves**  
+The Echo Theater Company
+
+##### **BEST PRODUCTION OF A PLAY - Large Theatre**
+
+**Charles Dickens' A Christmas Carol**  
+Geffen Playhouse
+
+**Dana H.**  
+Center Theatre Group
+
+**Lackawanna Blues**  
+Center Theatre Group
+
+**LADY DAY AT EMERSON'S BAR & GRILL**  
+Garry Marshall Theatre
+
+**Linda Vista**  
+Center Theatre Group
