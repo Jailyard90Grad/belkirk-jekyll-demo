@@ -2,7 +2,7 @@
 layout: post
 title: 30th Annual Ovation Awards
 sub_heading: 2018-2019 Awards season
-date: 
+date: 2020-09-01 00:00:00 -0700
 tags: []
 banner_image: "/uploads/2018/02/17/bridge.jpg"
 related_posts: []
